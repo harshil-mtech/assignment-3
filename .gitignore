@@ -1,0 +1,5 @@
+Data_pusher/node_modules/
+Data_tracker/node_modules/
+Data_validator/node_modules/
+redis_service/node_modules/
+User_auth/node_modules/
